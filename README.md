@@ -4,7 +4,7 @@
 
 ## Install
 
-Clone repository and add directory to `PATH` environment variable.
+Clone the repository and add the `aliases` subdirectory to the `PATH` environment variable.
 
 ## Aliases
 
