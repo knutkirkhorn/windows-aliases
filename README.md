@@ -13,6 +13,7 @@ install.bat
 ## Aliases
 
 - `nr`: shorthand for `npm run`
+- `ni`: shorthand for `npm i`
 - `nid`: shorthand for `npm i -D`
 - `nid-eslint`: shorthand for installing ESLint configs that I commonly use
 - `nrl`: shorthand for `npm run lint`
