@@ -18,6 +18,7 @@ install.bat
 - `nid-eslint`: shorthand for installing ESLint configs that I commonly use
 - `nrl`: shorthand for `npm run lint`
 - `nrd`: shorthand for `npm run dev`
+- `nu`: shorthand for `npm uninstall`
 - `cvrc`: shorthand for [cisco-vpn-rdp-connecter](https://github.com/knutkirkhorn/cisco-vpn-rdp-connecter/) CLI
 - `wn`: shorthand for [week-number](https://github.com/knutkirkhorn/week-number-cli) CLI
 
