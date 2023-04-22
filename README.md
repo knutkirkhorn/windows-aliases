@@ -19,6 +19,7 @@ install.bat
 - `nrl`: shorthand for `npm run lint`
 - `nrd`: shorthand for `npm run dev`
 - `nu`: shorthand for `npm uninstall`
+- `nui`: shorthand for `npm uninstall <input> && npm i <input>`. Useful after editing a dependency and you want to undo the changes.
 - `cvrc`: shorthand for [cisco-vpn-rdp-connecter](https://github.com/knutkirkhorn/cisco-vpn-rdp-connecter/) CLI
 - `wn`: shorthand for [week-number](https://github.com/knutkirkhorn/week-number-cli) CLI
 
