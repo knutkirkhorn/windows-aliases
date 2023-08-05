@@ -12,6 +12,7 @@ install.bat
 
 ## Aliases
 
+- `ns`: shorthand for `npm start`
 - `nr`: shorthand for `npm run`
 - `ni`: shorthand for `npm i`
 - `nid`: shorthand for `npm i -D`
