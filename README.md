@@ -26,6 +26,8 @@ install.bat
 - `wn`: shorthand for [week-number](https://github.com/knutkirkhorn/week-number-cli) CLI
 - `open`: alias for `explorer`. Similar to the `open` command on macOS.
 - `gb`: git commit package files after bumping dependencies.
+- `jwd`: shorthand for `jwt decode`
+	- Requires [jwt-cli](https://github.com/mike-engel/jwt-cli)
 
 ## Uninstall
 
