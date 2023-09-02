@@ -28,6 +28,7 @@ install.bat
 - `gb`: git commit package files after bumping dependencies.
 - `jwd`: shorthand for `jwt decode`
 	- Requires [jwt-cli](https://github.com/mike-engel/jwt-cli)
+- `mkdc`: Create a directory, navigate into it, initialize npm and open VS Code
 
 ## Uninstall
 
