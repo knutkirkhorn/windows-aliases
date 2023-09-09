@@ -30,6 +30,7 @@ install.bat
 - `jwd`: shorthand for `jwt decode`
 	- Requires [jwt-cli](https://github.com/mike-engel/jwt-cli)
 - `mkdc`: Create a directory, navigate into it, initialize npm and open VS Code
+- `week`: shorthand for [week-number](https://github.com/knutkirkhorn/week-number-cli)
 
 ## Uninstall
 
