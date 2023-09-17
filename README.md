@@ -39,3 +39,7 @@ This script removes the `aliases` subdirectory from the `PATH` environment varia
 ```console
 uninstall.bat
 ```
+
+## Related
+
+- My [dotfiles](https://github.com/knutkirkhorn/dotfiles)
