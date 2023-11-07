@@ -15,6 +15,7 @@ install.bat
 - `ns`: shorthand for `npm start`
 - `nr`: shorthand for `npm run`
 - `ni`: shorthand for `npm i`
+- `nil`: shorthand for `npm i` with packages with `@latest` tags
 - `nid`: shorthand for `npm i -D`
 - `nid-eslint`: shorthand for installing ESLint configs that I commonly use
 - `nidl`: shorthand for `npm i -D` with packages with `@latest` tags
