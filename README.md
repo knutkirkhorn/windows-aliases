@@ -17,6 +17,7 @@ install.bat
 - `ni`: shorthand for `npm i`
 - `nid`: shorthand for `npm i -D`
 - `nid-eslint`: shorthand for installing ESLint configs that I commonly use
+- `nidl`: shorthand for `npm i -D` with packages with `@latest` tags
 - `nrl`: shorthand for `npm run lint`
 - `nrd`: shorthand for `npm run dev`
 - `nu`: shorthand for `npm uninstall`
