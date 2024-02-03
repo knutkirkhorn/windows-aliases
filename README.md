@@ -18,6 +18,7 @@ install.bat
 - `nil`: shorthand for `npm i` with packages with `@latest` tags
 - `nid`: shorthand for `npm i -D`
 - `nid-eslint`: shorthand for installing ESLint configs that I commonly use
+- `nid-prettier`: shorthand for installing Prettier configs that I commonly use
 - `nidl`: shorthand for `npm i -D` with packages with `@latest` tags
 - `nrl`: shorthand for `npm run lint`
 - `nrd`: shorthand for `npm run dev`
