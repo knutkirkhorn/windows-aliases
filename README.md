@@ -38,7 +38,7 @@ install.bat
 	- Requires [jwt-cli](https://github.com/mike-engel/jwt-cli)
 - `mkdc`: Create a directory, navigate into it, initialize npm and open VS Code
 - `week`: shorthand for [week-number](https://github.com/knutkirkhorn/week-number-cli)
-- `shadcn-ui-bump`: To use in Next.js projects, find components in "components/ui" and update them to the latest version
+- `shadcn-ui-bump`: To use in Next.js projects, find components in "components/ui" and update them to the latest version. After updating them, run linting and formatting on the files.
 
 ## Uninstall
 
