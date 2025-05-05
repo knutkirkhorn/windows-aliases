@@ -35,11 +35,11 @@ call npx shadcn@latest add %components% --overwrite
 echo Updated components
 
 rem Run ESLint and Prettier on the updated files
-echo Running ESLint with auto-fix on components/ui...
-call npx eslint --fix "components/ui/**/*.{ts,tsx}"
+echo Running ESLint with auto-fix on `components/ui` and `hooks`...
+call npx eslint --fix "components/ui/**/*.{ts,tsx}" "hooks/**/*.{ts,tsx}"
 
-echo Running Prettier on components/ui...
-call npx prettier --write "components/ui/**/*.{ts,tsx}"
+echo Running Prettier with auto-fix on `components/ui` and `hooks`...
+call npx prettier --write "components/ui/**/*.{ts,tsx}" "hooks/**/*.{ts,tsx}"
 
 echo Done^^! Components updated, linted and formatted.
 
